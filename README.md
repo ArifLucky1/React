@@ -1,2 +1,2 @@
 # React
-React Basics learn and Practice.
+React Basics Learn and Practice.
