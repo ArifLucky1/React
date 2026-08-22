@@ -1,0 +1,14 @@
+
+    What is Virtual DOM ??
+
+    Virtual DOM is a lightweight copy of the actual DOM.
+    React uses it to improve performance by updating only the changed parts of the real DOM.
+
+
+
+    How it works:
+
+    State Change    ->      Virtual DOM     ->      Diffing (Compare)       ->      Update real DOM
+ .                                                        🔽 
+ .                                                 Only changed parts
+ .                                                    are updated    
