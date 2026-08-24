@@ -1,8 +1,8 @@
 
-    What is JSX ??
+//    What is JSX ??
 
-    JSX is a syntax extension for JavaScript.
-    It allows us to write HTML-like code inside JavaScript.
+//    JSX is a syntax extension for JavaScript.
+//    It allows us to write HTML-like code inside JavaScript.
 
 
     ex:
@@ -16,4 +16,4 @@
         }
 
 
-        ***     JSX makes the code more readable and easy to write.    ***
+//        ***     JSX makes the code more readable and easy to write.    ***
