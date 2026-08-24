@@ -7,4 +7,13 @@
 
     ex:
         const element = <h1 className="title">Hello React!</h1>
-        function App
+        function App(){
+            return (
+                <div>
+                    {element}
+                </div>
+            )
+        }
+
+
+        ***     JSX makes the code more readable and easy to write.    ***
