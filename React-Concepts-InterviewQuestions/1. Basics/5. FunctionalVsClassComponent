@@ -1,0 +1,15 @@
+
+    Functional  Vs Class Component??
+
+
+    Feature                       Functional Component                                   Class Component
+
+    Definition                  A JavaScript function that returns JSX                  ES6 class that extends React.Component
+
+    State & Lifecycle           Using Hooks(useStatse, useEffect, etc)                  Using this.state and lifecycle methods
+
+    Syntax                      Short and simple                                        Longer Syntax
+
+    performance                 Less memory, better performance                         More memory
+
+    Introduced                  React 16.8 (Hooks)                                      Earlier versions
