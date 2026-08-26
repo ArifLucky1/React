@@ -1,0 +1,16 @@
+
+    What is Diffing Algorithm ??
+        Diffing Algorithm is used during Reconciliation to find the differnce between old and new Virtual DOM.
+
+
+
+KEY Assumptions:
+    - Two elements of different types produce different trees.
+    - Developer can hint at which child elements may be stable using "Key" prop.
+
+
+
+    EX:
+        Old List                                New List
+      [A, B, C, D]                            [A, C, D, E]
+.            ↪-----   B removed, E added  ------↩
