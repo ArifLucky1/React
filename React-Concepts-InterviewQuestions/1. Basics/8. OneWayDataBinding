@@ -1,0 +1,14 @@
+
+    What is One Way Data Binding ??
+        Data flows in one direction from parent to child via props.
+        Child cannot send data back to parent directly.
+
+
+
+
+.                                   props        
+        Parent Component           ------>>                Child Component
+
+
+
+    ***    ❌ Child cannot modify parent's data directly.  ***
