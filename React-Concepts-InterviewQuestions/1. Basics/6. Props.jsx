@@ -11,3 +11,5 @@
         function App(){
             return <Child name="Arif" />
         }
+
+//      *** props are immutable (Read-only) ***
