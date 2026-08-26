@@ -1,0 +1,10 @@
+
+    What is Reconciliation ??
+        Reconciliation is the process React uses to update the DOM efficiently when state or props change.
+
+
+
+    STEPS:
+      -  React creates a new Virtual DOM.
+      -  Compares it with previous Virtual DOM
+      -  Updates only changed parts in Real DOM
