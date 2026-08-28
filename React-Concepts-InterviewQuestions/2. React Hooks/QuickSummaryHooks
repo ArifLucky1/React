@@ -1,0 +1,19 @@
+
+    Hook                                    Purpose
+
+    useState                                Add state to functional components
+    useEffect                               Handle side effects
+    useRef                                  Persist values and access DOM
+    useMemo                                 Memoize computed values
+    useCallback                             Memoize functions
+    useContext                              Access context values
+    Custom Hooks                            Re-use logic using Hooks
+    Rules of Hooks                          Ensure consistent Hook usage
+    Dependency Array                        Control when effect/memo runs
+    Cleanup function                        Clean up side effects.
+
+
+
+
+    ***  Hooks make functional components powerful.
+        Use them wisely for better performance and clean code.  ***
