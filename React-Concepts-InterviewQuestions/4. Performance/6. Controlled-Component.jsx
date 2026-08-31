@@ -2,7 +2,7 @@
 //  What are Controlled Components ??
         // In Controlled components, form data is handled by React state
 
-    import useState from 'react'''
+    import useState from 'react';
 
         function App(){
             const [name, setName] = useState('');
