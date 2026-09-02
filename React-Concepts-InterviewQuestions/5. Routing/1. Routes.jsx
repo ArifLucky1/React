@@ -11,3 +11,6 @@
                 <Route path="/about" element={<About />} />
             </Routes>
         </BrowserRouter>
+
+
+//      ***  Handles navigations and URL changes in single page applications.   ***
