@@ -1,0 +1,17 @@
+
+        Performance tips:
+
+    Use React.memo to prevent unnecessary re-renders.
+    Use useMemo and useCallback wisely.
+    Lazy load components and split code.
+    Use keys correctly in lists.
+    Avoid inline functions and object creation in render.
+    Keep components small and focuses.
+
+
+
+    ** Remember
+
+    Performance optimization is key in react application.
+    Use the right tool and pattern for the right problem.
+    Alaways profile your app and remove bottlenecks.
