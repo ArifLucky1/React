@@ -1,0 +1,8 @@
+
+        Routing Summary
+
+        React Router helps in navigation and routing.
+        Dynamic routes use params (eg: /user/:id).
+        Nested routes help in creating layouts.
+        Protected routes secure private pages.
+        useNavigate() is used for programmatic navigation.
