@@ -1,0 +1,14 @@
+
+        Redux Vs Context 
+            Both are useful for state management but serve different purposes.
+
+
+
+    Feature             Context API                                         Redux
+-------------------------------------------------------------------------------------------------------
+
+    Purpose             Manage global state for small apps                  Manage complex global state for large app.
+    BoilerPlate         Less                                                More
+    Performance         May cause re-renders in large apps                  Optimized with selectors
+    DevTools            Basic                                               Powerful Redux DevTools   
+    Best for            Theme, Auth, UI preferences                         E-commerce, dashboards, complex state logic
